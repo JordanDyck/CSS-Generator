@@ -89,6 +89,7 @@
   width: 55px;
   font-weight: bold;
   margin: 5px;
+  background-color: #ffe5a0;
 }
 @media (max-width: 768px) {
   .canvas {
@@ -110,5 +111,6 @@
   }
   .code-box-wrapper {
     margin-right: 8px;
+    height: fit-content;
   }
 }
